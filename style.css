@@ -1,0 +1,28 @@
+h1 {
+    color: dodgerblue;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+
+}
+body {
+    background-color: lavender;
+    font-family: sans-serif;
+    /* text-align: center; */
+    /* background-image: url("images/fantasy-wallpaper-33.jpg"); */
+}
+section {
+    /* text-align: center; */
+}
+footer {
+    font-weight: bold;
+}
+span {
+    font-family: fantasy;
+    font-weight: bold;
+}
+#image {
+    text-align: center;
+}
