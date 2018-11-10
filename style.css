@@ -1,20 +1,22 @@
 h1 {
-    color: dodgerblue;
     font-size: 60px;
     text-align: center;
     text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
 }
-h2 {
-
+h2,
+h3 {
+    color:#BFEEC1;
 }
 body {
-    background-color: lavender;
+    background-color:#659DBD;
+    color:white;
     font-family: sans-serif;
-    /* text-align: center; */
     /* background-image: url("images/fantasy-wallpaper-33.jpg"); */
 }
 section {
-    /* text-align: center; */
+    /* color:white; */
 }
 footer {
     font-weight: bold;
@@ -23,6 +25,25 @@ span {
     font-family: fantasy;
     font-weight: bold;
 }
-#image {
+#center {
     text-align: center;
+}
+
+li {
+    /* color:#C1C8E4; */
+}
+a:link,
+a:visited {
+    text-decoration: none;
+    color: white;
+    text-decoration: underline;
+}
+a:hover {
+    background-color:#DAAD86;
+}
+#color:hover {
+    background-color: #8C986A;
+}
+#google:hover {
+    background-color: #659DBD;
 }
