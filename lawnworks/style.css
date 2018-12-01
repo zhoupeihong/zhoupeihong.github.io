@@ -1,0 +1,48 @@
+body {
+    background-image: url("images/LawnWorks\ CT\ LLC_files/SpringRGB.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+figure {
+    margin-top: 100px;
+}
+
+header {
+    background-color: no;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
+
+footer {
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 460px;
+    margin-right: 460px;
+}
+span {
+    font-size: 80px;
+    color:#E8A87C;
+}
+
+#center {
+    text-align: center;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+}
+a:hover {
+}

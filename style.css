@@ -47,3 +47,20 @@ a:hover {
 #google:hover {
     background-color: #659DBD;
 }
+footer {
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 36%;
+    margin-right: 36%;
+    margin-top: 3%;
+}
+#myCanvas {
+    border-style: solid;
+    background-color: white;
+    margin-top: 60px;
+    margin-bottom:  60px;
+}
