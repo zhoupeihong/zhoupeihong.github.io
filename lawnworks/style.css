@@ -20,8 +20,8 @@ header {
 }
 
 h1 {
-    font-size: 80px;
-    /* font-size: 60px; */
+    /* font-size: 80px; */
+    font-size: 60px;
     color: white;
 }
 
@@ -74,10 +74,10 @@ nav {
     justify-content: space-evenly;
     background-color: none;
     padding-top: 10px;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
     font-size: 18px;
-    margin-bottom: 120px;
-    /* margin-bottom: 60px; */
+    /* margin-bottom: 120px; */
+    /* margin-bottom: 30px; */
     color: white;
     text-align: center;
 }
