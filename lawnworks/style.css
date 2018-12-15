@@ -61,10 +61,10 @@ a:visited {
     color: white;
     text-decoration: underline;
 }
-a:hover {
-}
+/* a:hover {
+} */
 
-#tan {
+.tan {
     text-align: none;
 }
 
@@ -79,11 +79,8 @@ nav {
     color: white;
     text-align: center;
 }
-#lineSpacing{
-    line-height: 30px;
-}
 
-#gray{
+p{
     color: gray;
-    font-size: 60px;
+    line-height: 30px;
 }
