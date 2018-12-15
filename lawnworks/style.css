@@ -1,37 +1,54 @@
 body {
-    background-image: url("images/LawnWorks\ CT\ LLC_files/SpringRGB.jpg");
+    background-image: url("../lawnworks/images/SpringRGB\ copy.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
+    background-size: contain;
     font-family: sans-serif;
 }
 
 figure {
     margin-top: 100px;
+    text-align: center;
 }
 
 header {
-    background-color: no;
+    background-color: none;
     margin-top: 60px;
     margin-left: 60px;
     margin-right: 60px;
+    margin-bottom: 60px;
+    text-align: center;
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 80px;
     color: white;
 }
 
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+section {
+    margin-top: 120px;
+    margin-bottom: 60px;
+    padding-left: 360px;
+    padding-right: 360px;
+}
+
 footer {
-    color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left: 460px;
-    margin-right: 460px;
+    background-color: #41B3A3;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
 }
 span {
-    font-size: 80px;
-    color:#E8A87C;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+    color: #3FEEE6;
 }
 
 #center {
@@ -41,8 +58,32 @@ span {
 a:link,
 a:visited {
     text-decoration: none;
-    color: black;
+    color: white;
     text-decoration: underline;
 }
 a:hover {
+}
+
+#tan {
+    text-align: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: none;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    margin-bottom: 120px;
+    color: white;
+    text-align: center;
+}
+#lineSpacing{
+    line-height: 30px;
+}
+
+#gray{
+    color: gray;
+    font-size: 60px;
 }
